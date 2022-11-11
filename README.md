@@ -1,10 +1,10 @@
-#Echobot
+# Echobot
 
-#pip installation
+# pip installation
 
 pip install pyTelegramBotAPI
 
-#Common Error Fix (LINUX)
+# Common Error Fix (LINUX)
 
 sudo python -m pip uninstall pyTelegramBotAPI
 
